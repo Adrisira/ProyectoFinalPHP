@@ -28,7 +28,7 @@ You can read this a Spanish article in Crashell platform: [Apache, PHP, MySQL y 
 
 
 # Enlace a GitHub:
-https://github.com/Adrisira/ProyectoCarlos
+https://github.com/Adrisira/ProyectoFinalPHP
 
 # Datos conexion a base de datos
 Usuario: root
@@ -41,6 +41,4 @@ La presentación esta dentro de la carpeta www
 
 
 # Datos Funcionales
-En Departarmentos se puede borrar y ediar desde Buscar Departamento
-En Empleado se puede borrar desde Buscar Empleado y editar desde Listado de empleados por departamento
-Lo he hecho así para que veas que se hacerlo de dos maneras diferentes
+Enlace a página web http://gestionderecursoshumanosphp.great-site.net/
